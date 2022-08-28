@@ -1,3 +1,7 @@
+title: "GITHUB"
+date: 2022-08-28
+
+
 Infographics
 
 Infographics don’t have to be those long professionally made images you see all over Pinterest. An infographic can be an image of any size or shape and about any type of information.
